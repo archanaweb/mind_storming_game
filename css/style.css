@@ -34,7 +34,7 @@ span{
 
 .front_card {background-color: var(--border-color);border-radius: .657rem;padding: 2rem;box-shadow: #343434 0px 8px 24px;background-size: contain;}
 
-.back_card {transform: rotateY(180deg); background-size: contain;background-repeat: no-repeat;background-position: center center;box-shadow: #686868 0px 8px 24px;}
+.back_card {transform: rotateY(180deg); background-size: 80%;background-repeat: no-repeat;background-position: center center;box-shadow: #686868 0px 8px 24px;}
 
 .card_selected {transform: rotateY(180deg); }
 .card_match .front_card {background-color: var(--bg-card);}

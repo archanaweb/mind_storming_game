@@ -1,0 +1,5 @@
+git status
+git add .
+git commit -am "your comment"
+git pull //in case of working with team.
+git push
